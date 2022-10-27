@@ -1,10 +1,10 @@
 public class Keyboard {
-    private int width;
-    private int length;
-    private int price;
-    private String brand;
-    private String type;
-    private String color;
+    int width;
+    int length;
+    int price;
+    String brand;
+    String type;
+    String color;
 
     Keyboard(){
         this("Unknown", "Unknown");
